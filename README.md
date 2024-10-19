@@ -27,7 +27,7 @@ pip install openpyxl
 
 python
 複製程式碼
-find_by_name(sheet1, "周士勛")
+find_by_name(sheet1, "周小勳")
 儲存更新（可選）
 如果你對 Excel 文件進行了更改，別忘記儲存：
 
@@ -46,7 +46,7 @@ makefile
 yaml
 複製程式碼
 姓名    日期        抽獎資格
-周士勛  2023-10-10   有
+周小勳  2023-10-10   有
 王小明  2023-10-12   無
 程式碼結構 🗂️
 bash
